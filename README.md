@@ -23,3 +23,6 @@ Durante o processo, o sistema:
 
 Após a coleta e o tratamento das informações, os dados são inseridos em uma **tabela MySQL**, garantindo organização, integridade e facilidade de consulta para usos futuros.
 
+Os dados são consultados em outra API chamada Baskabet
+
+(docs/home.jpg)
